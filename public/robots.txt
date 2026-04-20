@@ -1,2 +1,7 @@
 User-agent: *
-Disallow:
+Disallow: /admin 
+Disallow: /login 
+Disallow: /admin/* 
+Allow: /
+
+Sitemap: https://beta-bank.ru/sitemap.xml
